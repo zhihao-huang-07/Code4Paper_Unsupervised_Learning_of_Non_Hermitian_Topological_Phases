@@ -2,4 +2,5 @@
 reproduce some results of arXiv:2010.14516
 
 - Refs:
-  - [Unsupervised Learning of Non-Hermitian Topological Phases](https://arxiv.org/abs/2010.14516)
+  1. [Unsupervised Learning of Non-Hermitian Topological Phases](https://arxiv.org/abs/2010.14516)
+  2. [Non-Hermitian Topological Invariants in Real Space](https://arxiv.org/abs/1905.02211)
